@@ -1,7 +1,8 @@
 # SpeakThis
-![](app/src/main/res/drawable-xxhdpi/ic_launcher.png)
+![](ic_launcher.png)
 \
 SpeakThis is a simple **offline** Text-to-Speech (TTS) android application. It allows you to capture an image via the camera; extract text from it; then speak the text without needing an internet connection. This makes it ideal for situations where internet access is limited or unreliable.
+
 
 ## Features
 *   **Offline Operation:** Converts text to speech locally, ensuring functionality without internet.
